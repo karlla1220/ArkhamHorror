@@ -1,7 +1,7 @@
+---
+applyTo: "backend/**"
+---
 # Backend Instructions
-
-**applyTo: "backend/**"**
-
 ## Tech Stack
 - **Language**: Haskell
 - **Framework**: Yesod web framework
