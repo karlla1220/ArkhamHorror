@@ -1,6 +1,7 @@
+---
+applyTo: "frontend/**"
+---
 # Frontend Instructions
-
-**applyTo: "frontend/**"**
 
 ## Tech Stack
 - **Language**: TypeScript
